@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @mohammadtm786
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in to work with new technologies which are running.
+- 🌱 I’m currently learning machine learning and artificial intelligence.
+- 💞️ I’m looking to collaborate with MNC companies.
+  
 
 <!---
-mohammadtm786/mohammadtm786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mohammadtm786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
