@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohammadtm786
+- 👋 Hi, I’m Mohammad Talib Mansoori.
 - 👀 I’m interested in to work with new technologies which are running.
 - 🌱 I’m currently learning machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate with MNC companies.
