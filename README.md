@@ -1,7 +1,9 @@
-- 👋 Hi, I’m Mohammad Talib Mansoori.
-- 👀 I’m interested in to work with new technologies which are running.
-- 🌱 I’m currently learning machine learning and artificial intelligence.
-- 💞️ I’m looking to collaborate with MNC companies.
+👋 Hi, I’m Mohammad Talib Mansoori
+👀 I’m interested in AI & ML
+🌱 I’m currently learning GEN AI & its applications
+💞️ I’m looking to collaborate on different AI related projects
+📫 How to reach me : Mail - mohammadtm786@gmail.com
+⚡ Instagram: @waabr__, Linkedin: @mohammad-talib-mansoori
   
 
 <!---
